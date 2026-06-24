@@ -1,0 +1,13 @@
+{
+  "name": "flutter-run-colored",
+  "version": "1.0.0",
+  "description": "Run `flutter run` with app logs highlighted in neon and system/engine noise in gray",
+  "bin": {
+    "frc": "./bin/cli.js"
+  },
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "flutter-run-colored": "link:"
+  }
+}
